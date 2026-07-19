@@ -91,14 +91,11 @@ The project follows the pipeline below:
 ```
 RecruitAI/
 │
-├── data/
-├── outputs/
-│   └── ranked_candidates.csv
 ├── resumes/
+│   └── Sample.pdf
 ├── screenshots/
 │   ├── terminal_output.png
 │   └── ranked_candidates.png
-├── Resume.csv
 ├── feature_extraction.py
 ├── resume_parser.py
 ├── ranking_model.py
