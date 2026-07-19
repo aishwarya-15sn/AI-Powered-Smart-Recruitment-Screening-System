@@ -20,7 +20,7 @@ The project demonstrates how Natural Language Processing (NLP) techniques can au
 
 ## Features
 
-+- Process and rank **2,484 resumes** from a resume dataset
+- Process and rank **2,484 resumes** from a resume dataset
 - Extract technical skills using Regular Expressions (Regex)
 - Extract required skills from a job description
 - Generate TF-IDF vectors for resume-job matching
