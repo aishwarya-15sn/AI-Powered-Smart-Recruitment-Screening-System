@@ -168,6 +168,7 @@ For the current dataset:
 - **Based on the Kaggle Resume Dataset**
 - Total resumes processed: **2,484**
 - Multiple resume categories including Engineering, IT, HR, Healthcare, Finance, Sales, and more.
+- Download the Resume Dataset from Kaggle and place `Resume.csv` in the project root before running the project.
 
 ---
 
